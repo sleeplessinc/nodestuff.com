@@ -1,4 +1,6 @@
 
+
+var jade = require("jade");
 var jsond = require("jsond");
 require("log5"); logLevel = 5;
 
